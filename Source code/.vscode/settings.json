@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "crtdefs.h": "c",
+        "corecrt.h": "c",
+        "_mingw.h": "c",
+        "_mingw_mac.h": "c",
+        "_mingw_secapi.h": "c",
+        "_cygwin.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
